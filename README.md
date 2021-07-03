@@ -1,0 +1,1 @@
+Até o momento o curso está atingindo o objetivo de passar conhecimento, estou conseguindo entender a dinamica do git e github.
